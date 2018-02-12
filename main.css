@@ -1,0 +1,102 @@
+body {
+    background-color: #000000;
+    color: #FFFFFF;
+
+}
+
+#almighty{
+    margin:auto;
+
+}
+
+#propic {
+    margin-left: auto;
+    margin-right: auto;
+    align-self: center;
+    color:aliceblue;
+    background-color: #499de6;
+    border-radius: 100px;
+    height: 200px;
+    width: 1700px;
+    display: flex;
+    justify-content: space-between;
+}
+
+#PhotoDisplay{
+    margin-left: auto;
+    margin-right: auto;
+    align-self: center;
+}
+
+#inDisplay{
+    margin-left: auto;
+    margin-right: auto;
+    align-self: center;
+    
+}
+
+
+#display{
+    margin-left: auto;
+    margin-right: auto;
+    align-self: center;
+    color:aliceblue;
+    background-color: #499de6;
+    border-radius: 100px;
+    height: 900px;
+    width: 900px;
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+
+#picleft,#pic1,#pic2,#pic3,#pic4,#pic5,#picright{
+    height: 200px;
+    width: 200px;
+    border-radius: 100Px;
+    margin-left: auto;
+    margin-right: auto;
+    align-self: center;
+}
+
+#arrow-left,#image1,#image2,#image3,#image4,#image5,#arrow-right{
+    flex;auto;
+    float:left;
+    margin:auto;
+
+
+}
+
+#dman{
+    height: 200px;
+    width: 200px;
+    border-radius: 100Px;
+}
+
+
+#wrapper {
+    margin-left: auto;
+    margin-right: auto;
+    align-self: center;
+    display: flex;
+    justify-content: space-between;
+    width: 100rem;
+    height: 600px;
+    overflow: hidden; /* will contain if #first is longer than #second */
+    flex: auto;
+}
+
+#wrapper2 {
+    margin-left: auto;
+    margin-right: auto;
+    align-self: center;
+    display: flex;
+    justify-content: space-between;
+    width: 100rem;
+    overflow: hidden; /* will contain if #first is longer than #second */
+    flex: auto;
+}
+
+
+
